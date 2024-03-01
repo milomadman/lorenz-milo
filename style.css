@@ -3,11 +3,18 @@ body {
     font-family: sans-serif;
 }
 
+.page {
+    padding-left: 20px;
+    margin-top: 60px;
+}
+
+#page-index {
+    margin-top: 10px;
+}
 
 #titlename {
     color: #ffffff;
     margin-right:auto;
-    padding-left: 20px;
     font-size: 14pt;
     font-weight: bold;
 }
@@ -64,9 +71,6 @@ ul {
     text-decoration: none;
 }
 
-.page {
-    margin-top:50px;
-}
 
 .mySlides{
     display:none;
